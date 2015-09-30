@@ -27,6 +27,7 @@ Thumbs.db
 [Ll]ib/
 [Rr]elease*/
 [Tt]est[Rr]esults/
+.vs/
 _UpgradeReport_Files/
 _ReSharper.*/
 FbSample/FbSample/SecretKey.cs
